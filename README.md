@@ -33,6 +33,11 @@ To get started with the Network Simulator, follow these steps:
     ```bash
     streamlit run app.py
     ```
+## Live Demo
+[Open ProtoPlay App](https://protoplay-dfu3srt9qym4aqbdgqqsmt.streamlit.app/)
+
+
+
 
 ## Usage
 
