@@ -1,3 +1,4 @@
 networkx==3.4.2
 pyvis==0.3.2
 streamlit==1.42.2
+matplotlib
